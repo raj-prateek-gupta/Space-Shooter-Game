@@ -1,0 +1,1 @@
+screen.blit(player_surface,player_rect)
